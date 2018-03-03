@@ -10,7 +10,7 @@
 #### https://mysterious-lake-25915.herokuapp.com/
 
 
-![initial inventory](/screenshots/initScreen.png)
+![initial inventory](/initScreen.png)
 
 
 
