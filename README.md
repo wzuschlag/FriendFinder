@@ -10,7 +10,7 @@
 #### https://mysterious-lake-25915.herokuapp.com/
 
 
-![friendFinder](initScreen.png)
+![friendFinder](InitScreen.png)
 
 
 
